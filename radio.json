@@ -1,0 +1,7 @@
+{
+  "name": "Tu Radio Tabasco",
+  "stream": "https://profane-habitant-wreckage.ngrok-free.dev/radio.mp3",
+  "status": "online",
+  "mount": "/radio.mp3",
+  "updated": "2026-08-12T08:20:00-06:00"
+}
