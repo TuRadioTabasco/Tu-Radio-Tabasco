@@ -9,6 +9,16 @@
       "ubicacion": "https://maps.google.com",
       "activo": true,
       "destacado": true
+    },
+    {
+      "id": "002",
+      "nombre": "NEGOCIO DOS",
+      "categoria": "Servicios",
+      "descripcion": "Esta es la segunda prueba del directorio.",
+      "whatsapp": "529931111111",
+      "ubicacion": "https://maps.google.com",
+      "activo": true,
+      "destacado": true
     }
   ]
 }
