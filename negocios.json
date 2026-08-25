@@ -7,6 +7,8 @@
       "descripcion": "Tu negocio puede aparecer aquí.",
       "whatsapp": "529930000000",
       "ubicacion": "https://maps.google.com",
+      "telefono": "9931111111",
+      "sitio_web": "https://ejemplo.com",
       "activo": true,
       "destacado": true
     },
@@ -17,6 +19,8 @@
       "descripcion": "Esta es la segunda prueba del directorio.",
       "whatsapp": "529931111111",
       "ubicacion": "https://maps.google.com",
+      "telefono": "9931111111",
+      "sitio_web": "https://ejemplo.com",
       "activo": true,
       "destacado": true
     }
