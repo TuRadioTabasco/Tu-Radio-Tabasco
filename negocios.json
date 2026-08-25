@@ -1,0 +1,14 @@
+{
+  "negocios": [
+    {
+      "id": "001",
+      "nombre": "TU NEGOCIO",
+      "categoria": "Comercio local",
+      "descripcion": "Tu negocio puede aparecer aquí.",
+      "whatsapp": "529930000000",
+      "ubicacion": "https://maps.google.com",
+      "activo": true,
+      "destacado": true
+    }
+  ]
+}
