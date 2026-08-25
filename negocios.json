@@ -2,12 +2,12 @@
   "negocios": [
     {
       "id": "001",
-      "nombre": "PRUEBA EN VIVO",
-      "categoria": "Comercio local",
-      "descripcion": "Tu negocio puede aparecer aquí.",
+      "nombre": "GuzGar Studio",
+      "categoria": "Papeleria Creativa",
+      "descripcion": "Papeleria creativa.",
       "whatsapp": "529930000000",
       "ubicacion": "https://maps.google.com",
-      "telefono": "9931111111",
+      "telefono": "9935457983",
       "sitio_web": "https://ejemplo.com",
       "logo": "https://turadiotabasco.github.io/Tu-Radio-Tabasco/negocios/001/logo.png",
       "activo": true,
