@@ -12,6 +12,14 @@
       "telefono": "9935457983",
       "sitio_web": "https://ejemplo.com",
       "logo": "https://turadiotabasco.github.io/Tu-Radio-Tabasco/negocios/001/logo.png",
+      "imagenes": [
+  "https://turadiotabasco.github.io/Tu-Radio-Tabasco/negocios/001/promo_01.jpg",
+  "https://turadiotabasco.github.io/Tu-Radio-Tabasco/negocios/001/promo_02.jpg",
+  "https://turadiotabasco.github.io/Tu-Radio-Tabasco/negocios/001/promo_03.jpg",
+  "https://turadiotabasco.github.io/Tu-Radio-Tabasco/negocios/001/promo_04.jpg",
+  "https://turadiotabasco.github.io/Tu-Radio-Tabasco/negocios/001/promo_05.jpg",
+  "https://turadiotabasco.github.io/Tu-Radio-Tabasco/negocios/001/promo_06.jpg"
+],
       "activo": true,
       "destacado": true
     },
